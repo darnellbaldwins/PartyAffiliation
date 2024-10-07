@@ -5,7 +5,6 @@ public class Main {
         String d;
         String r;
         String i;
-        System.out.println("Please enter your party affiliation: ");
         System.out.println("'d' if you are a part of the Democrat party");
         System.out.println("'r' if you are a part of the Republican party");
         System.out.println("'i' if you are an Independent");
